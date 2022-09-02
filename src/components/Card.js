@@ -71,9 +71,10 @@ const Wrapper = styled.article`
     column-gap: 1rem;
     margin-bottom: 1rem;
     img {
-      width: 75px;
-      height: 75px;
+      width: 80px;
+      height: 85px;
       border-radius: 50%;
+      /* object-fit: cover; */
     }
     h4 {
       margin-bottom: 0.25rem;
